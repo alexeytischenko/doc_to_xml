@@ -1,0 +1,17 @@
+{
+  "Records": [
+    {
+      "eventTime": "2020-08-27T",
+      "s3": {
+        "object": {
+          "key": "docs/source.doc",
+          "to": "xml",
+          "size": 1
+        },
+        "bucket": {
+          "name": "my-bucket"
+        }
+      }
+    }
+  ]
+}
